@@ -12,9 +12,9 @@ Currently, I am studying:
 The repository will continue to grow and eventually include:  
 - `concurrency/` → Goroutines, channels, WaitGroup, concurrency patterns, and **exercises for each topic**  
 - `stdlib/` → Exercises on main standard library packages (`fmt`, `strings`, `strconv`, `time`, etc.)  
-- `testing/` → **Unit tests applied to all exercises in the previous folders**
+- `testing/` → **Unit tests applied to all exercises in the previous directories**
 
-**📁 Each main folder will have its own README**, explaining its contents and how to navigate through the exercises and code.
+**📁 Each main directory will have its own README**, explaining its contents and how to navigate through the exercises and code.
 
 ## ⚡ How to Use
 
@@ -22,7 +22,7 @@ The repository will continue to grow and eventually include:
    ```bash
    git clone https://github.com/your-username/learning-go.git
 
-2. Navigate to the folder you want and explore or run the code:
+2. Navigate to the directory you want and explore or run the code:
    ```
    go run file_name.go
 
