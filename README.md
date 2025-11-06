@@ -22,10 +22,14 @@ The repository will continue to grow and eventually include:
    ```bash
    git clone https://github.com/your-username/learning-go.git
 
-2. Navigate to the directory you want and explore or run the code:
-   ```
-   go run file_name.go
+2. Navigate to the directory you want to explore. Each directory contains its own code and instructions on how to run it.
 
-3. To run tests (when available):
+3. For Go files in a directory, typically you can run:
+    ```
+    go run main.go
+
+4. To run tests (when available):
     ```
     go test ./...
+
+💡 **Tip:** if you are using an editor like VS Code with *Code Runner*, you can run the active file directly using `Ctrl + Alt + N`, without navigating to the directory.
